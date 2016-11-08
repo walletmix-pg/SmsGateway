@@ -39,6 +39,6 @@ class SmsGatewayController extends Controller
  
 
 
-		dd($response);
+		return $response;
 	}
 }
