@@ -1,5 +1,5 @@
 {
-    "name": "Walletmix/SmsGateway",
+    "name": "walletmix/smsgateway",
     "type": "library",
     "description": "Sms Gateway",
     "keywords": [
